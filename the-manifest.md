@@ -1,6 +1,6 @@
 # The Modern Governance Manifesto
 
-The next bottleneck for software development is the Governance, Risk, and Control (GRC) processes.  Modern Governance are the behaviors make GRC an invisibly effective force within an organization, and embed it as a value proposition for an organization
+The next bottleneck for software development is the Governance, Risk, and Control (GRC) processes.  Modern Governance are the behaviors make GRC an invisibly effective force within an organization, and embed it as a value proposition for an organization.
  
 We acknowledge that Modern Governance is:  
  
